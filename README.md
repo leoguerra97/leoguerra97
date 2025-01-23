@@ -1,6 +1,6 @@
 # Leonardo's GitHub Profile  
 
-![me](221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+![me](290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/leonardo-guerra-leo/)  
 
