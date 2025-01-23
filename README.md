@@ -17,7 +17,7 @@ Developed an innovative generative AI model for **Limit Order Book (LOB) simulat
 
 ---
 
-### [HangmanBERT](#)  
+### [HangmanBERT]([#](https://github.com/leoguerra97/HangmanProject))  
 An interactive AI-based **Hangman game** powered by **BERT**, capable of understanding natural language inputs and predicting possible words efficiently. Designed for entertainment and demonstrating NLP capabilities.  
 
 **Tags:** `NLP` `BERT` `Game Development` `Python`  
