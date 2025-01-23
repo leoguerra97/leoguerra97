@@ -10,7 +10,7 @@
 
 ## Projects and Works  
 
-### [Computational Finance Thesis](#)  
+### Computational Finance Thesis
 Developed an innovative generative AI model for **Limit Order Book (LOB) simulation** using a **deep-learning State Space Model (Mamba)** in JAX/Python. Generated and validated order book messages, extracted key insights from the data, and benchmarked results.  
 
 **Tags:** `Finance` `Deep Learning` `Generative Models` `Python` `JAX`  
@@ -43,7 +43,7 @@ Developed a **Reinforcement Learning (RL) agent** that dynamically adapts its in
 
 ---
 
-### [Polimi Master Thesis: Heartfelt Words - ECG Captioning Systems Using DL](#)  
+### [Polimi Master Thesis: Heartfelt Words - ECG Captioning Systems Using DL](https://github.com/leoguerra97/HeartfeltWords)  
 Explored the use of **language models (LMs)** to generate clinical reports from ECG signals:  
 - Built an **encoder-decoder architecture** using ResNet and GPT-2 to process ECG data and generate medical text.  
 - Evaluated performance using BLEU scores and qualitative analysis.  
