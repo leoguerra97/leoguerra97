@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/leonardo-guerra-leo/)  
 
-👋 Hi there! I'm Leonardo, a passionate data scientist and software engineer with expertise in **machine learning**, **deep learning**, and **financial engineering**. Welcome to my GitHub profile!  
+👋 Hi there! I'm Leonardo, a passionate Engineer with expertise in **machine learning**, **deep learning**, and **financial engineering**. Welcome to my GitHub profile!  
 
 ---
 
@@ -17,14 +17,14 @@ Developed an innovative generative AI model for **Limit Order Book (LOB) simulat
 
 ---
 
-### [HangmanBERT]([#](https://github.com/leoguerra97/HangmanProject))  
+### [HangmanBERT](https://github.com/leoguerra97/HangmanProject)
 An interactive AI-based **Hangman game** powered by **BERT**, capable of understanding natural language inputs and predicting possible words efficiently. Designed for entertainment and demonstrating NLP capabilities.  
 
 **Tags:** `NLP` `BERT` `Game Development` `Python`  
 
 ---
 
-### [Skindrape](#)  
+### [Skindrape](https://github.com/leoguerra97/skindrape)  
 A demo project showcasing an **image processing pipeline** designed to transform raw garment images into site-ready formats. The pipeline uses a fine-tuned neural network to **segment and isolate garments** from their background.  
 - **OpenAI API** processes images to extract structured data, classify garments, and generate enticing descriptions.  
 - Includes a **Node.js frontend** for uploading garments, processing them, and organizing them in a gallery classified by type.  
@@ -33,7 +33,7 @@ A demo project showcasing an **image processing pipeline** designed to transform
 
 ---
 
-### [StockBERT_Advisor - Reinforcement Learning Trading Agent with NLP Module]([#](https://github.com/leoguerra97/StockBERT_advisor))  
+### [StockBERT_Advisor - Reinforcement Learning Trading Agent with NLP Module](https://github.com/leoguerra97/StockBERT_advisor)
 Developed a **Reinforcement Learning (RL) agent** that dynamically adapts its investment strategies using an NLP model:  
 - **Fine-tuned BERT model** interprets natural language risk preferences and modifies the RL agent’s actions.  
 - Agent trades across three assets (Google stock, S&P500, Gold), performing actions like buy, sell, or hold.  
@@ -53,7 +53,7 @@ Explored the use of **language models (LMs)** to generate clinical reports from 
 
 ---
 
-### [Artificial Neural Networks and Deep Learning Project](#)  
+### [Artificial Neural Networks and Deep Learning Project](https://github.com/leoguerra97/ANN_Project)  
 Applied **Deep Learning** techniques in **TensorFlow** to solve various tasks:  
 - **Image Classification**: ResNet for distinguishing between categories like crops, weeds, and ground.  
 - **Image Segmentation**: Used U-Net for agriculture-related segmentation.  
