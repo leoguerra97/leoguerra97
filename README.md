@@ -33,7 +33,7 @@ A demo project showcasing an **image processing pipeline** designed to transform
 
 ---
 
-### [StockBERT_Advisor - Reinforcement Learning Trading Agent with NLP Module](#)  
+### [StockBERT_Advisor - Reinforcement Learning Trading Agent with NLP Module]([#](https://github.com/leoguerra97/StockBERT_advisor))  
 Developed a **Reinforcement Learning (RL) agent** that dynamically adapts its investment strategies using an NLP model:  
 - **Fine-tuned BERT model** interprets natural language risk preferences and modifies the RL agent’s actions.  
 - Agent trades across three assets (Google stock, S&P500, Gold), performing actions like buy, sell, or hold.  
