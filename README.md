@@ -12,7 +12,7 @@
 
 ## Projects and Works  
 
-### [Computational Finance Thesis]
+### [Computational Finance Thesis](https://github.com/leoguerra97/leoguerra97/blob/main/Absract_Leonardo_Guerra.pdf)
 This thesis explores the application of **AI** and **Large Language Model (LLM)-inspired techniques** for simulating Limit Order Books (LOBs) in financial markets.  
 - Investigated benchmarking, optimal model architectures, and stress-testing for LOB simulations.  
 - Focused on predicting event types, timing, and mid-price movements while addressing mode collapse.  
