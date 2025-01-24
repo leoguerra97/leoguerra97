@@ -1,7 +1,7 @@
 # Leonardo's GitHub Profile  
 
 <div align="center">
-  <img src="290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif" alt="me" width="400">
+  <img src="profile_gif.gif" alt="me" width="400">
 </div>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/leonardo-guerra-leo/)  
