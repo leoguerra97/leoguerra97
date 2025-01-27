@@ -6,7 +6,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/leonardo-guerra-leo/)  
 
-Hi! I'm Leo, a Machine Learning Engineer specializing in **NLP**, **generative AI**, and **financial modeling**. 
+Hi! I'm Leo, an Engineer specializing in **machine learning**, **financial modeling**, **NLP** and **generative AI**. 
 Feel free to explore my projects and connect! 🔥
 
 ---
