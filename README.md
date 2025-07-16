@@ -12,12 +12,12 @@ I enjoy taking noisy, high‑frequency or unstructured data and building models,
 
 ---
 
-## Research Themes (current interests)
+## Recent Research Themes 
 
 - **Market Microstructure & Simulation** – modeling message‑level order flow and synthetic LOB environments.
 - **Statistical & ML Signal Construction** – short‑horizon prediction, risk‑aware transforms, portfolio inputs.
-- **NLP Interfaces for Finance** – mapping language (risk prefs, docs, news) into structured model hooks.
-- **Alt / Unstructured Data Engineering** – images, docs, sensor series → features useful for modeling.
+- **NLP Interfaces for Finance** – Creating token based models and mapping language (risk prefs, docs, news) into structured model hooks.
+- **Alt / Unstructured Data Engineering** – Statistical modelling and from images, docs, sensor series to features useful for modeling.
 
 
 ---
