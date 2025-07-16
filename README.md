@@ -6,9 +6,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/leonardo-guerra-leo/)  
 
-Hi! I'm **Leo**, a quant and engineer working at the intersection of **financial mathematics**, **machine learning**, **market microstructure modeling**, and **applied NLP / generative AI**. 
+🔥 Hi! I'm **Leo**, a **Quant** and **Engineer** working at the intersection of **financial mathematics**, **market microstructure modeling**, **ML** and **NLP/AI**. 🔥
 
-I enjoy taking noisy, high‑frequency or unstructured data and building models, tooling, and research prototypes that can move toward systematic decision‑making. 🔥
+I enjoy taking noisy, high‑frequency or unstructured data and building models, tooling, and research prototypes that can move toward systematic decision‑making. 
 
 ---
 
